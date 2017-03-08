@@ -1,0 +1,63 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+   /* The image used */
+    background-image: url("fond.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+	max-height: 50px;
+	max-width: 75px;
+	width: 70px;
+	height: 49px;
+
+}
+
+h1{
+	text-align : center;
+	color: white;
+
+}
+
+.color{
+	text-align: center;	
+	list-style: none;
+	color: white;
+	margin: auto;
+	padding: 50px;
+}
+
+.color2{
+	text-align: center;	
+	list-style: none;
+	color: white;
+	margin: auto;
+	padding: 50px;
+
+
+}
+
+
+.contenu1{
+	padding: 15%;
+	
+}
+
+footer{
+	font-size: 10px;
+	color: white;
+}
+
